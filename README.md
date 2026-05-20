@@ -2,7 +2,7 @@
 
 Implementation of the paper "Operator Splitting with Hamilton–Jacobi-based Proximals", ICML 2026.
 
-The Hamilton–Jacobi proximal operator (HJ-Prox) estimates `prox_{t·f}(x)` for a possibly non-smooth `f` using only function values of `f`, via a Monte Carlo softmax average derived from the viscous Hamilton–Jacobi PDE. Plugging HJ-Prox into existing operator-splitting schemes (PGD, DRS, PDHG, DYS) replaces every analytical proximal calculation with a zeroth-order approximation.
+The Hamilton–Jacobi proximal operator (HJ-Prox) estimates `prox_{t·f}(x)` for a possibly non-smooth `f` using only function values of `f`, via a Monte Carlo softmax average derived from the viscous Hamilton–Jacobi PDE. Plugging HJ-Prox into existing operator-splitting schemes (PGD, DRS, PDHG, DYS) replaces difficult analytical proximal calculations with a zeroth-order approximation.
 
 
 ## Notebooks
