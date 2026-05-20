@@ -14,10 +14,10 @@ The Hamilton–Jacobi proximal operator (HJ-Prox) estimates `prox_{t·f}(x)` for
 | `pdhg_total_variation.ipynb` | TV deblurring with PDHG / PDHG-HJ |
 | `drs_multitask_learning.ipynb` | Multitask learning with DRS / DRS-HJ |
 | `dys_sparse_group_lasso.ipynb` | Sparse-group LASSO with DYS / DYS-HJ |
-| `dys_sparse_group_lasso_reviewer.ipynb` | Sparse-group LASSO, alternate δ annealing (For Reviewers) |
+| `dys_sparse_group_lasso_reviewer.ipynb` | Sparse-group LASSO, alternate δ annealing (Openreview Response) |
 | `dys_constrained_lasso.ipynb` | Non-negative LASSO with DYS / DYS-HJ |
 | `dys_real_world_application.ipynb` | Overlapping group LASSO on GSE2034 breast-cancer data |
-| `foglasso_vs_hjprox.ipynb` | HJ-Prox vs the FoGLasso analytical dual solver (For Reviewers) |
+| `foglasso_vs_hjprox.ipynb` | HJ-Prox vs the FoGLasso analytical dual solver (Openreview Response) |
 
 Open one, **Run All**.
 
